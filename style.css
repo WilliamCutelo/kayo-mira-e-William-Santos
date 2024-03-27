@@ -25,3 +25,10 @@ body{
     color: aliceblue;
     align: center;
 }
+a{
+    color: rgb(1, 148, 99);
+    
+}
+a:hover{
+    color: red;
+}
